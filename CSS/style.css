@@ -1,0 +1,21 @@
+figure {
+    border: 2px solid red; 
+  width: 150px;
+} 
+  img {
+    width: 100%;
+}
+  section {
+    border: 2px solid purple;
+}
+figure {
+    border: 2px solid red; 
+  width: 150px;
+} 
+  img {
+    width: 100%;
+}
+  section {
+    border: 2px solid rgb(251, 251, 251); color: rgb(155, 63, 205);
+  background-color: rgb(255, 255, 255);
+}
