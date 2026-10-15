@@ -19,3 +19,25 @@ figure {
     border: 2px solid rgb(251, 251, 251); color: rgb(155, 63, 205);
   background-color: rgb(255, 255, 255);
 }
+    nav {
+        background-color: white;
+        padding: 15px;
+        text-align: left;
+    }
+    nav a {
+        display: inline-block;
+        background-color: pink;
+        color: black;
+        padding: 12px 20px;
+        margin-right: 15px;
+        margin-bottom: 10px;
+        text-decoration: none;
+        border: 2px solid pink;
+        border-radius: 8px;
+        font-weight: bold;
+    }
+
+    nav a:hover {
+        background-color: white;
+        color: black;
+    }
